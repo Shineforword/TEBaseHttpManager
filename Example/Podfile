@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'TEBaseHttpManager_Example' do
+  pod 'TEBaseHttpManager', :path => '../'
+
+  target 'TEBaseHttpManager_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
