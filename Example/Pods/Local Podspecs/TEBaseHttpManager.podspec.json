@@ -1,0 +1,22 @@
+{
+  "name": "TEBaseHttpManager",
+  "version": "0.1.0",
+  "summary": "A short description of TEBaseHttpManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dreamingclear@163.com/TEBaseHttpManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dreamingclear@163.com": "dreamingclear@163.com"
+  },
+  "source": {
+    "git": "https://github.com/dreamingclear@163.com/TEBaseHttpManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TEBaseHttpManager/Classes/**/*"
+}

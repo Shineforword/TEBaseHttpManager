@@ -1,0 +1,6 @@
+framework module TEBaseHttpManager {
+  umbrella header "TEBaseHttpManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

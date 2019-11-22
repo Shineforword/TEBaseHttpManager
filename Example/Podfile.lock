@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - TEBaseHttpManager (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - TEBaseHttpManager (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  TEBaseHttpManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  TEBaseHttpManager: a6e9c275e2ea6c8c92a8095c41f181ce4a806977
+
+PODFILE CHECKSUM: 0aecbf41d9337c4bead3a8f0920ea58e3a81cf18
+
+COCOAPODS: 1.5.3

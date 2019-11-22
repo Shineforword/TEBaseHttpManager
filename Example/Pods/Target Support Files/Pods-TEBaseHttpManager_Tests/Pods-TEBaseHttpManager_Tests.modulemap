@@ -1,0 +1,6 @@
+framework module Pods_TEBaseHttpManager_Tests {
+  umbrella header "Pods-TEBaseHttpManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
